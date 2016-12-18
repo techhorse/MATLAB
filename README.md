@@ -1,2 +1,2 @@
 # MATLAB
-Matrix laboratories(MATLAB) is a graphing tool.
+Matrix laboratories(MATLAB) Programs or CODES.
